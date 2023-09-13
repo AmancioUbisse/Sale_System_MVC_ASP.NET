@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj": {}
+    "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj": {
+    "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj",
+        "projectUniqueName": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj",
         "projectName": "Sale_System",
-        "projectPath": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj",
+        "projectPath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\Sale_System.csproj",
         "packagesPath": "C:\\Users\\EDWIN-OLOGA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\obj\\",
+        "outputPath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Sale_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EDWIN-OLOGA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,41 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sale_System
 build_property.RootNamespace = Sale_System
-build_property.ProjectDir = C:\Users\EDWIN-OLOGA\source\repos\Sale_System\
+build_property.ProjectDir = c:\Users\EDWIN-OLOGA\source\repos\Sale_System\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\EDWIN-OLOGA\source\repos\Sale_System
+build_property.MSBuildProjectDirectory = c:\Users\EDWIN-OLOGA\source\repos\Sale_System
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Home/Index.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Home/Privacy.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Dashboard.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Shared/Error.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxOb3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Registrations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxSZWdpc3RyYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxSZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Sales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxTYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxzZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/Stock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxTdG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Sale/wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVx3YWxsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/_ViewImports.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/_ViewStart.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Shared/_Layout.cshtml]
+[c:/Users/EDWIN-OLOGA/source/repos/Sale_System/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-61kv36jlv9

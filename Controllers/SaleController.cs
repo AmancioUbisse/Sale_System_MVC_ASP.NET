@@ -10,5 +10,44 @@ namespace Sale_System.Controllers
         {
             return View();
         }
+
+        public IActionResult Sales() {
+        return View();
+       }
+        public IActionResult services()
+        {
+            return View();
+        }
+
+        public IActionResult Stock()
+        {
+            return View();
+        }
+
+        public IActionResult wallet()
+        {
+            return View();
+        }
+        public IActionResult Reports()
+        {
+            return View();
+        }
+        public IActionResult Customers()
+        {
+            return View();
+        }
+        public IActionResult Notifications()
+        {
+            return View();
+        }
+
+        public IActionResult Registrations()
+        {
+            return View();
+        }
+        public IActionResult Settings()
+        {
+            return View();
+        }
     }
 }
